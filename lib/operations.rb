@@ -5,6 +5,7 @@ def unsafe?(speed)
     return "You are going too fast!"
   else
     return "You are driving a safe speed"
+  end
 end
 
 
